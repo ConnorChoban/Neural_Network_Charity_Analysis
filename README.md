@@ -26,7 +26,7 @@ The purpose of this analysis is to use machine learning concepts to create a neu
 
 #### Changing Number of Neurons in the Hidden Layer
 
-(80 in the first layer, 30 in the second)
+(100 in the first layer, 30 in the second)
 
 <img width="938" alt="Screen Shot 2022-07-29 at 6 31 30 AM" src="https://user-images.githubusercontent.com/99847786/181741077-0b5388c0-dc57-418f-84b1-06175583de01.png">
 
