@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to use machine learning concepts to create a neural network to examine whether applicants will successfully meet the criteria to receive funding from a charity organization. In this analysis, we'll create a complex neural network and make modifications in an attempt to correctly classify the data 75% of the time.
+The purpose of this analysis is to use machine learning concepts to create a neural network to examine whether applicants will successfully meet the criteria to receive funding from a charity organization. In this analysis, we'll create a complex neural network and make modifications in an attempt to correctly classify the data at least 75% of the time.
 
 ## Results
 
